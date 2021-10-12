@@ -1,2 +1,4 @@
+include ':resourcesLib'
+include ':commonlibrary'
 include ':app'
 rootProject.name = "WalnutNews"
